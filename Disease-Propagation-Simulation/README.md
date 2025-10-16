@@ -26,3 +26,4 @@ Compile and run the simulation using:
 ```bash
 g++ Main.cpp -o disease_simulation
 ./disease_simulation
+python plot_results.py(optional)
